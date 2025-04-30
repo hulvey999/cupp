@@ -169,8 +169,8 @@ def print_cow():
     print("       \\   \033[1;31m,__,\033[1;m             # \033[07mP\033[27masswords")
     print("        \\  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # \033[07mP\033[27mrofiler")
     print("           \033[1;31m(__)    )\\ \033[1;m  ")
-    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ Muris Kurgas | j0rgan@remote-exploit.org ]")
-    print(28 * " " + "[ Mebus | https://github.com/Mebus/]\r\n")
+    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ ]")
+    print(28 * " " + "[ ]\r\n")
 
 
 def version():
